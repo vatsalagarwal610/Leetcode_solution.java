@@ -17,4 +17,4 @@ class Solution {
 
 
 //Run Time: 1ms | 96.64%   
-//Memory: 47.25 | 6.87%
+//Memory: 47.25 MB | 6.87%
