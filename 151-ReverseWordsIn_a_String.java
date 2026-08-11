@@ -28,8 +28,9 @@ class Solution {
         }
         return result.toString();
     }
+}
 
 
 //Run Time: 4ms | 92.67%   
 //Memory: 44.15 MB | 79.95%
-}
+
